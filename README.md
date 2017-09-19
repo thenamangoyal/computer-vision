@@ -4,4 +4,11 @@
 
 | #  |  Topic |
 |---|---|
+|1|<a href="Hybrid Images">Hybrid Images</a>|
+|2|<a href="Feature Detection">Feature Detection</a>|
 
+Note
+----
+* Please refer to individual Readme of particular directory on how to execute the script.
+* Each directory contains question in lab.pdf about the project
+* Each directory contains Report.pdf having complete analysis of the problem
