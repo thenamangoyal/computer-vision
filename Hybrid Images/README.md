@@ -1,5 +1,5 @@
-Hybrid Images
-=============
+Lab 1: Hybrid Images
+====================
 
 Introduction
 ------------
