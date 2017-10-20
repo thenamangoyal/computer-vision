@@ -6,6 +6,7 @@
 |---|---|
 |1|<a href="Hybrid Images">Hybrid Images</a>|
 |2|<a href="Feature Detection">Feature Detection</a>|
+|3|<a href="Bag of Words and Homography">Bag of Words and Homography</a>|
 
 Note
 ----
