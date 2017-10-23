@@ -40,7 +40,10 @@ result = Collage_Wrapper(dir_path, low_pass_filter, high_pass_filter)
 * dir_path is directory of .jpg files which is optional and default the present working directory.
 * low_pass_filter and high_pass_filter are optional and by default gaussian and unsharp respectively used ot create hybrid image from 2 images.
 
-e.g. imshow(Collage_Wrapper('images'))
+e.g. 
+
+imshow(Collage_Wrapper('images'))
+
 imshow(Collage_Wrapper_AbsSize('images'))
 
 Developed By
