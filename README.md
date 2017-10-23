@@ -4,9 +4,9 @@
 
 | #  |  Topic |
 |---|---|
-|1|<a href="Hybrid Images">Hybrid Images</a>|
-|2|<a href="Feature Detection">Feature Detection</a>|
-|3|<a href="Bag of Words and Homography">Bag of Words and Homography</a>|
+|1|<a href="Hybrid_Images">Hybrid Images</a>|
+|2|<a href="Feature_Detection">Feature Detection</a>|
+|3|<a href="Bag_of_Words_and_Homography">Bag of Words and Homography</a>|
 
 Note
 ----
