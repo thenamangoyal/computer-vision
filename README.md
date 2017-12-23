@@ -7,6 +7,8 @@
 |1|<a href="Hybrid_Images">Hybrid Images</a>|
 |2|<a href="Edge_and_Corner_Detection">Canny Edge and Harris Interest Points Detection</a>|
 |3|<a href="Bag_of_Words_and_Homography">Bag of Words and Homography</a>|
+|3|<a href="Object_Detection">Object Detection</a>|
+
 
 Note
 ----
