@@ -9,9 +9,9 @@
 |3|<a href="Bag_of_Words_and_Homography">Bag of Words and Homography</a>|
 |4|<a href="Object_Detection">Object Detection</a>|
 
+https://sites.google.com/site/dhallabhinav/teaching/csl462_618_2017
 
-Note
-----
+## Note
 * Please refer to individual Readme of particular directory on how to execute the script.
 * Each directory contains question in lab.pdf about the project
 * Each directory contains Report.pdf having complete analysis of the problem
